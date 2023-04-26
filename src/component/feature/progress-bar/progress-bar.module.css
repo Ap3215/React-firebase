@@ -1,0 +1,5 @@
+.progess-bar {
+  height: 0.5rem;
+  background: var(--af-primary);
+  margin-top: 2rem;
+}
